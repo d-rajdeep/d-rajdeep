@@ -38,7 +38,7 @@ Results-driven Developer with 4+ years of experience designing and maintaining h
 ## 📂 Projects  
 
 ### 🔹 WordPress Projects  
-- 🛒 **Petshop Website** – WooCommerce store with payment & API integration → [Live Demo](nextlevelpets.in)  
+- 🛒 **Petshop Website** – WooCommerce store with payment & API integration → [Live Demo](https://nextlevelpets.in)  
 - 💊 **Online Medicine Order** – WooCommerce medical store with order management → [Live Demo](#)  
 - 💼 **Digital Agency** – Responsive service portfolio → [Live Demo](#)  
 - 🏠 **Real Estate** – Custom CMS on WordPress → [Live Demo](#)  
