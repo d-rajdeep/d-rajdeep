@@ -3,7 +3,7 @@
 **Software Developer | Proficient in both the Front-end and Back-end**  
 Results-driven Developer with 4+ years of experience designing and maintaining high-performance, responsive, and user-friendly websites.  
 
-[View Projects](https://d-rajdeep.github.io/)]
+[View Projects](https://d-rajdeep.github.io/)
 
 ---
 
