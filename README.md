@@ -51,6 +51,7 @@ Results-driven Developer with 4+ years of experience designing and maintaining h
 ## 📂 Projects  
 
 ### 🔹 WordPress Projects  
+- 📰 **Blog Website** – Singer user blog website with different categories → [Live Demo](https://prideofapen.in)  
 - 🛒 **Petshop Website** – WooCommerce store with payment & API integration → [Live Demo](https://nextlevelpets.in)  
 - 💊 **Online Medicine Order** – WooCommerce medical store with order management → [Live Demo](https://oukhodexpress.com)  
 - 💼 **Digital Agency** – Responsive service portfolio → [Live Demo](https://adceleb.in)  
@@ -61,7 +62,8 @@ Results-driven Developer with 4+ years of experience designing and maintaining h
 - 📊 **CRUD App** – Daily task tracker with CRUD features → [GitHub](https://github.com/d-rajdeep/crud-app-laravel.git)  
 - 👥 **Multiuser Blog** – Role-based blog system with user management → [GitHub](https://github.com/d-rajdeep/blog-app.git)  
 - 📦 **Inventory System** – Manage stock & billing → [GitHub](https://github.com/d-rajdeep/inventory-system-php.git)  
-- 🛍 **E-Commerce Platform** – Admin + customer roles, full e-commerce features → [GitHub](https://github.com/d-rajdeep/tech_store.git)  
+- 🛍 **E-Commerce Platform** – Admin + customer roles, full e-commerce features → [GitHub](https://github.com/d-rajdeep/tech_store.git)
+- 🏗 **Website Builder** - Admin can add fields and they appear on the frontend → [GitHub](https://github.com/d-rajdeep/website_builder.git) 
 
 ---
 
