@@ -99,7 +99,7 @@ Experienced Web Developer transitioning into Laravel, building projects like CRU
 
 ## 📫 Contact  
 
-💼 [Portfolio](https://d_rajdeep.in/)  
+💼 [Portfolio](https://d-rajdeep.in/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/d-rajdeep/)  
 📧 design.rajdeep@gmail.com  
 
