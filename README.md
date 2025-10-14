@@ -11,7 +11,7 @@ Results-driven Developer with 4+ years of experience designing and maintaining h
 - Experienced in Laravel, PHP, WordPress, and modern frontend frameworks.  
 - Skilled in building **CRUD apps, blogs, CMS, and e-commerce systems**.  
 - Passionate about **clean code, scalability, and user-centric design**.  
-- Currently working at **SIQES** as a Software Developer (Laravel focus).  
+- Currently working at **SIQES** as a Software Developer (Focusing on Laravel).  
 
 ---
 
