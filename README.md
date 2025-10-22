@@ -51,7 +51,7 @@ Results-driven Developer with 4+ years of experience designing and maintaining h
 ## 📂 Projects  
 
 ### 🔹 WordPress Projects  
-- 📰 **Blog Website** – Singer user blog website with different categories → [Live Demo](https://prideofapen.in)  
+- 📰 **Blog Website** – Single user blog website with different categories → [Live Demo](https://prideofapen.in)  
 - 🛒 **Petshop Website** – WooCommerce store with payment & API integration → [Live Demo](https://nextlevelpets.in)  
 - 💊 **Online Medicine Order** – WooCommerce medical store with order management → [Live Demo](https://oukhodexpress.com)  
 - 💼 **Digital Agency** – Responsive service portfolio → [Live Demo](https://adceleb.in)  
