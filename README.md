@@ -60,10 +60,10 @@ Results-driven Developer with 4+ years of experience designing and maintaining h
 ### 🔹 Laravel Projects  
 - 📰 **Blog CMS** – Simple blog with auth & post management → [GitHub](https://github.com/d-rajdeep/blog-cms-laravel.git)  
 - 📊 **CRUD App** – Daily task tracker with CRUD features → [GitHub](https://github.com/d-rajdeep/crud-app-laravel.git)  
-- 👥 **Multiuser Blog** – Role-based blog system with user management → [GitHub](https://github.com/d-rajdeep/blog-app.git)  
+- 👥 **Multiuser Blog** – Role-based blog system with user management → [GitHub](https://github.com/d-rajdeep/blog-app.git) → [Live View](https://d-rajdeep.in/apps/blog-app/)  
 - 📦 **Inventory System** – Manage stock & billing → [GitHub](https://github.com/d-rajdeep/inventory-system-php.git)
-- 📰 **Dairy App** – User private space note for thoughts and memories → [GitHub](https://github.com/d-rajdeep/dairy-system)  
-- 🛍 **E-Commerce Platform** – Admin + customer roles, full e-commerce features → [GitHub](https://github.com/d-rajdeep/tech_store.git)
+- 📰 **Dairy App** – User private space note for thoughts and memories → [GitHub](https://github.com/d-rajdeep/dairy-system) → [Live View](https://d-rajdeep.in/apps/dairy-system/)  
+- 🛍 **E-Commerce Platform** – Admin + customer roles, full e-commerce features → [GitHub](https://github.com/d-rajdeep/tech_store.git) → [Live View](https://d-rajdeep.in/apps/tech-store/)
 - 🏗 **Website Builder** - Admin can add fields and they appear on the frontend → [GitHub](https://github.com/d-rajdeep/website_builder.git) → [Live View](https://apps.d-rajdeep.in/wb/lp.html)
 
 ---
