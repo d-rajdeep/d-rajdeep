@@ -10,7 +10,7 @@ Results-driven Developer with 4+ years of experience designing and maintaining h
 ## 📖 About Me  
 - Software Developer (Laravel, PHP, WordPress) | Specialized in E-Commerce Platforms & Custom Web Applications
   
-I’m a Full-Stack Web & Software Developer with 4+ years of experience in Laravel, PHP, custom web solutions and WordPress.
+I’m a  Web Designer & Software Developer with 4+ years of experience in Laravel, PHP, custom web solutions and WordPress.
 I’ve built multiple projects like e-commerce platforms, CMS systems, dashboard applications for clients across industries and WordPress websites etc.
 I’m open to freelance, contract, or full-time opportunities where I can help businesses grow with scalable and user-friendly software.  
 
