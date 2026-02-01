@@ -49,24 +49,40 @@ I’m open to freelance, contract, or full-time opportunities where I can help b
 
 ---
 
-## 📂 Projects  
+## 🚀 Featured Projects
 
-### 🔹 WordPress Projects  
-- 📰 **Blog Website** – Single user blog website with different categories → [Live Demo](https://prideofapen.in)  
-- 🛒 **Petshop Website** – WooCommerce store with payment & API integration → [Live Demo](https://nextlevelpets.in)  
-- 💊 **Online Medicine Order** – WooCommerce medical store with order management → [Live Demo](https://oukhodexpress.com)  
-- 💼 **Digital Agency** – Responsive service portfolio → [Live Demo](https://adceleb.in)  
-- 🏠 **Real Estate** – Custom CMS on WordPress → [Live Demo](https://a2zflats.com)  
+A collection of real-world applications built using **Laravel, WordPress & PHP**, focused on scalability, performance, and clean architecture.
 
-### 🔹 Laravel Projects  
-- 📰 **Blog CMS** – Simple blog with auth & post management → [GitHub](https://github.com/d-rajdeep/blog-cms-laravel.git)  
-- 📊 **CRUD App** – Daily task tracker with CRUD features → [GitHub](https://github.com/d-rajdeep/crud-app-laravel.git)  
-- 👥 **Multiuser Blog** – Role-based blog system with user management → [GitHub](https://github.com/d-rajdeep/blog-app.git) → [Live View](https://d-rajdeep.in/apps/blog-app/)  
-- 📦 **Inventory System** – Manage stock & billing → [GitHub](https://github.com/d-rajdeep/inventory-system-php.git)
-- 📰 **Dairy App** – User private space note for thoughts and memories → [GitHub](https://github.com/d-rajdeep/dairy-system) → [Live View](https://d-rajdeep.in/apps/dairy-system/)  
-- 🛍 **E-Commerce Platform** – Admin + customer roles, full e-commerce features → [GitHub](https://github.com/d-rajdeep/tech_store.git) → [Live View](https://d-rajdeep.in/apps/tech-store/)
-- 🏗 **Website Builder** - Admin can add fields and they appear on the frontend → [GitHub](https://github.com/d-rajdeep/website_builder.git) → [Live View](https://apps.d-rajdeep.in/wb/lp.html)
+---
 
+# 🌐 WordPress Solutions
+
+| Project | Description | Tech | Live |
+|--------|-------------|------|-------|
+| 📰 Blog Website | Single-user blog with categories & CMS | WordPress | [Live](https://prideofapen.in) |
+| 🛒 Petshop Store | WooCommerce store with payment & API integrations | WooCommerce | [Live](https://nextlevelpets.in) |
+| 💊 Medicine Store | Online pharmacy with order & stock management | WooCommerce | [Live](https://oukhodexpress.com) |
+| 💼 Digital Agency | Responsive service portfolio website | WordPress | [Live](https://adceleb.in) |
+| 🏠 Real Estate Portal | Property listing with advanced search & custom theme | WordPress | [Live](https://a2zflats.com) |
+
+---
+
+# 🔥 Laravel Applications
+
+| Project | Description | Tech Stack | Code | Live |
+|---------|-------------|-------------|---------|---------|
+| 📰 Blog CMS | Authentication + post management | Laravel | [GitHub](https://github.com/d-rajdeep/blog-cms-laravel.git) | — |
+| 📊 CRUD App | Daily task tracker | Laravel | [GitHub](https://github.com/d-rajdeep/crud-app-laravel.git) | — |
+| 👥 Multiuser Blog | Role-based blog with admin moderation | Laravel | [GitHub](https://github.com/d-rajdeep/blog-app.git) | [Live](https://d-rajdeep.in/apps/blog-app/) |
+| 📦 Inventory System | Stock + billing management | Core PHP | [GitHub](https://github.com/d-rajdeep/inventory-system-php.git) | — |
+| 📔 Diary App | Personal notes & memory system | Laravel | [GitHub](https://github.com/d-rajdeep/dairy-system) | [Live](https://d-rajdeep.in/apps/dairy-system/) |
+| 🛍 E-Commerce Platform | Admin + customer roles with full store features | Laravel | [GitHub](https://github.com/d-rajdeep/tech_store.git) | [Live](https://d-rajdeep.in/apps/tech-store/) |
+| 🏗 Website Builder | Dynamic field builder with admin panel | Laravel | [GitHub](https://github.com/d-rajdeep/website_builder.git) | [Live](https://apps.d-rajdeep.in/wb/lp.html) |
+
+---
+
+## 🧠 Tech Highlights
+`Laravel` `PHP` `WordPress` `WooCommerce` `MySQL` `REST APIs` `Razorpay` `Shiprocket` `Tailwind`
 ---
 
 ## 📑 Resume  
